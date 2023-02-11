@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=andyxiao1&color=ff69b4&label=I+see+you)
 <!--
 **andyxiao1/andyxiao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
